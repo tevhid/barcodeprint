@@ -8,16 +8,27 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@progress/kendo-data-query": "^1.5.6",
+    "@progress/kendo-react-dateinputs": "^5.1.0",
+    "@progress/kendo-react-dropdowns": "^5.1.0",
+    "@progress/kendo-react-grid": "^5.1.0",
+    "@progress/kendo-react-inputs": "^5.1.0",
+    "@progress/kendo-react-intl": "^5.1.0",
+    "@progress/kendo-theme-default": "^5.2.0",
     "@tailwindcss/aspect-ratio": "^0.4.0",
     "@tailwindcss/forms": "^0.4.0",
     "@tailwindcss/line-clamp": "^0.3.1",
     "@tailwindcss/typography": "^0.5.2",
+    "isomorphic-unfetch": "^3.1.0",
+    "jquery": "^3.6.0",
     "js-cookie": "^3.0.1",
     "jsonwebtoken": "^8.5.1",
     "next": "12.1.0",
+    "nprogress": "^0.2.0",
+    "prop-types": "^15.8.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "nprogress": "^0.2.0"
+    "swr": "^1.2.2"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.2",
